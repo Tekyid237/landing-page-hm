@@ -472,6 +472,18 @@ img {
   letter-spacing: 1px;
 }
 
+.btn.cta-btn {
+  background: #D98C18;
+  color: #ffffff;
+  border-radius: 100px;
+  letter-spacing: 1px;
+}
+
+.btn.cta-btn:hover, .btn.cta-btn:focus {
+  background: #ffffff;
+  color: #D98C18;
+}
+
 .btn.sApp-btn:hover, .btn.sApp-btn:focus {
   color: var(--white-color);
 }
@@ -651,7 +663,7 @@ img {
   top: 0;
   left: 0;
   background: var(--primary-bg-color-2);
-  opacity: 0.94;
+  opacity: 0;
   z-index: -1;
 }
 
@@ -748,7 +760,7 @@ img {
 }
 
 .homepage-5 .welcome-area {
-  background: rgba(0, 0, 0, 0) url("../img/blog/blog-4.jpg") no-repeat scroll center center/cover;
+  background: rgba(0, 0, 0, 0) url("../img/bg/welcome-bg-01.jpg") no-repeat scroll center center/cover;
 }
 
 .homepage-6 .welcome-area {

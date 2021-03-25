@@ -86,7 +86,7 @@
   --secondary-color-2: #777;
   --social-color-1: #3b5999;
   --social-color-2: #55acee;
-  --social-color-3: #dd4b39;
+  --social-color-3: #c13584;
   --social-color-4: #00b489;
   --social-color-5: #2867B2;
   --white-color: #ffffff;
@@ -722,7 +722,7 @@ img {
   background-color: var(--social-color-2) !important;
 }
 
-.social-icons > a.google-plus {
+.social-icons > a.instagram {
   background-color: var(--social-color-3) !important;
 }
 

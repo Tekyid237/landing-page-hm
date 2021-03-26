@@ -360,6 +360,7 @@ img {
   .section-heading > h2 {
     line-height: 1.5;
   }
+  
 }
 
 .section-heading > h2::after {
@@ -477,6 +478,7 @@ img {
   color: #ffffff;
   border-radius: 100px;
   letter-spacing: 1px;
+  text-align: center;
 }
 
 .btn.cta-btn:hover, .btn.cta-btn:focus {
@@ -958,6 +960,7 @@ img {
 /* ******************************
 :: 7.0 HEADER AREA CSS
 ****************************** */
+
 @media (max-width: 991px) {
   .main:before {
     content: "";
@@ -1248,6 +1251,7 @@ img {
     -webkit-transform: translateY(20px);
             transform: translateY(20px);
   }
+
 }
 
 .dropdown .dropdown-menu:before {

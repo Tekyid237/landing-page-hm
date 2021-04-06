@@ -2064,8 +2064,7 @@ img {
 /* ******************************
 :: 19.0 TEAM AREA CSS
 ****************************** */
-.join-us {
-  cursor: pointer;
+.join-us 
   border-radius: 1rem;
   -webkit-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
